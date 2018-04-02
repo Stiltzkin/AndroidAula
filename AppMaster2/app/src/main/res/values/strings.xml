@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppMaster2</string>
+
+    <array name="genres">
+        <item>Genero 1</item>
+        <item>Genero 2</item>
+        <item>Genero 3</item>
+    </array>
+</resources>
